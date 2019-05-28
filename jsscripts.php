@@ -1,0 +1,9 @@
+<script src="<?php echo JS_URL ?>jquery.js"></script>
+<!--<script src="--><?php //echo JS_URL ?><!--bootstrap.bundle.js"></script>-->
+<script src="<?php echo JS_URL ?>bootstrap.min.js"></script>
+<!--<script src="--><?php //echo JS_URL ?><!--idle-timer.js"></script>-->
+<script src="<?php echo JS_URL; ?>jquery.dataTables.min.js"></script>
+<!--<script src="--><?php //echo JS_URL; ?><!--jquery.uniform.min.js"></script>-->
+<script src="<?php echo JS_URL; ?>jquery.validate.min.js"></script>
+<script src="<?php echo JS_URL; ?>scrollingPagination.js"></script>
+<script src="<?php echo JS_URL; ?>bootstrap-datetimepicker.min.js"></script>
